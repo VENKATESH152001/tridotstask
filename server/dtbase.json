@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "productname": "carrot",
+      "productprice": "20",
+      "producttype": "vegetables",
+      "productdescrip": "its good for health"
+    },
+    {
+      "productname": "tomato",
+      "productprice": "4",
+      "producttype": "vegetables",
+      "productdescrip": "its good for health"
+    }
+  ]
+}
